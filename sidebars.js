@@ -15,7 +15,6 @@
 const sidebars = {
   docs: [
     'index',
-	,
     {
       type: 'category',
       label: '基础组件',
